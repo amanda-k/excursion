@@ -20,3 +20,8 @@ h2 {font-family: Verdana;
 .remember {font-family: Verdana;
           font-size: 21px;
           color: gray;}
+
+.copyright {font-family: Verdana;
+            color: gray;
+            text-align: right;
+           font-weight: normal;}
